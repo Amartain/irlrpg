@@ -6,7 +6,7 @@ body {
 }
 
 
-body::after {
+/*body::after {
     content: "";
     position: absolute;
     top: 0;
@@ -15,13 +15,36 @@ body::after {
     height: 100vh;
     background: repeating-linear-gradient(
             0deg,
-            rgba(0,0,0, 0.15),
+            rgba(FF,FF,FF, 0.15),
             rgba(0,0,0, 0.15) 1px,
             transparent 1px,
             transparent 2px
     );
+}*/
+
+a:active{
+    background:none;
+    color:blue;
+    text-decoration: transparent;
+
 }
 
+a:visited{
+    background:none;
+    color:blue;
+    text-decoration: transparent;
+
+}
+
+a:hover{
+    background: none;
+    color:lawngreen;
+    text-decoration: none;
+}
+
+pre:hover{
+    color:lawngreen;
+}
 
 h2, h3 {
     text-align:center;

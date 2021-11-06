@@ -26,21 +26,33 @@ body {
 a:active{
     background:none;
     color:blue;
-    text-decoration: transparent;
+    text-decoration: none !important;
+    border-bottom:none !important;
 
 }
+a:link{
+    background:none;
+    color:blue;
+    text-decoration: none !important;
+    border-bottom:none !important;
+
+}
+
 
 a:visited{
     background:none;
     color:blue;
-    text-decoration: transparent;
+    text-decoration: none !important;
 
 }
 
 a:hover{
     background: none;
     color:lawngreen;
-    text-decoration: none;
+    text-decoration: none !important;
+}
+a:-webkit-any-link {
+    border-bottom:none !important;
 }
 
 pre:hover{

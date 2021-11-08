@@ -1,11 +1,13 @@
 body {
     color: white;
-    background:
-            black;
+    background:black;
     font-family: Courier, monospace;
     font-size: small;
 }
 
+#logo {
+    color:white;
+}
 
 /*body::after {
     content: "";
@@ -55,7 +57,7 @@ a:-webkit-any-link {
     border-bottom:none !important;
 }
 
-pre:hover{
+pre:hover, #logo:hover {
     color:lawngreen;
 }
 

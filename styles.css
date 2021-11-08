@@ -9,9 +9,7 @@ body {
     color:white;
 }
 
-/*body::after {
-    content: "";
-    position: absolute;
+body {
     top: 0;
     left: 0;
     width: 100vw;
@@ -23,7 +21,7 @@ body {
             transparent 1px,
             transparent 2px
     );
-}*/
+
 
 a:active{
     background:none;

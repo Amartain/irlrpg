@@ -9,7 +9,7 @@ body {
     color:white;
 }
 
-body {
+/*body {
     top: 0;
     left: 0;
     width: 100vw;
@@ -20,7 +20,7 @@ body {
             rgba(0,0,0, 0.15) 1px,
             transparent 1px,
             transparent 2px
-    );
+    );*/
 
 
 a:active{

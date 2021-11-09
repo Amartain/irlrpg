@@ -7,7 +7,7 @@ Why do we love to play games for hours wasting hours on a virtual character? As 
 2) Clear goals
 3) Clear progress
 
-Instant gratification 
+I. Instant gratification 
 
 QQ: https://positivepsychology.com/instant-gratification/
 
@@ -29,13 +29,22 @@ Here are some ideas how can you get instant gratification from everyday tasks:
 1) create a TO-DO list where you write down your tasks 
 	- cross out when finished (even this action can give some satisfaction to some)
 
-2) after a complition of a task you need motivation for give yourself a small reward such as 
+2) after a completion of a task (that you need motivation for) give yourself a small reward such as
 	- drink your favourite tea / coffee
 	- have a break which you spend with leisure
 	- do sth that you like and takes less than 20min 
 BUT: I recommend against using food rewards regularly. It is okay sometimes, but using it often can cause toxic relationship with food
 
-3)
+
+
+II. Clear goals 
+
+It's much easier to be motivated to do things, when you have a clear goal. Humans are essentially goal oriented creatures. Evolutionally goals used to be very clear and simple: find food & shelter to survive and be successful at these to be able to mate. Modernity brought complexity to our goals as well. We need complicated plans that often take years to accomplish and even the definition of successful became a huge philosophical question. However our psychology (which is largely based on thousounds of years old evolutionary physiology) is yet to catch up. It still craves simple goals to follow. Games give that us. In games our biggest and most simple goals are: leveling through gaining experience by doing smaller clearly defined tasks (such as collect x, hunt y monster etc.). If you think about it you probably also want to "level up" certain areas of your life - in other words, you want to improve and for that you also need to do smaller tasks. However IRL you don't see your goals and progress so clearly. But we can help that by defining clear goals for our selves (bigger and smaller as well) and then we can use systems to follow our progress towards those. Thus artificially creating the feedback we lack IRL, but get in games. Esentially showing ourselves the worth of the tasks we are doing, by visualising it in a system. Which brings us to the last thing games are great at: showing us our progress clearly.
+
+III. Clear progress
+
+The system that games use to follow progress may seem daunting at first, but as we play and we get gratification from numbers going up and bars progressing. We have skills we can improve, and every tasks we do adds experience, thus we level up. In life we may put hours and hours of work into something before we can easily notice any progress and even then we may not notice it at all. What if I say that we can implement the same system games use to follow progress into our life? If we do, we will have measurable progress - numbers that show us our hard work - which can help us get motivation or the determination to do tasks we need. Thus, we gamify our life. In this project I intend to show a way to do just that. To gamify your life you need to build a system that contains the 3 previous key elements. >Here< you can find the description for the system I use (with explanation for non-gamers/rpg-ers). 
+
 
 
 

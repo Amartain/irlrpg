@@ -2,7 +2,7 @@ body {
     color: white;
     background:black;
     font-family: Courier, monospace;
-    font-size: small;
+    font-size: medium;
 }
 
 #logo {
@@ -25,14 +25,14 @@ body {
 
 a:active{
     background:none;
-    color:blue;
+    color:white;
     text-decoration: none !important;
     border-bottom:none !important;
 
 }
 a:link{
     background:none;
-    color:blue;
+    color:white;
     text-decoration: none !important;
     border-bottom:none !important;
 
@@ -41,7 +41,7 @@ a:link{
 
 a:visited{
     background:none;
-    color:blue;
+    color:white;
     text-decoration: none !important;
 
 }
@@ -143,5 +143,29 @@ td {
     padding: 4px;
 }
 
+/* psychologybehind.html specific */
 
+ol {
+    list-style: upper-roman;
+}
 
+blockquote {
+    text-align: justify;
+}
+
+p {
+    text-align:justify;
+    line-height: 1.5em;
+}
+
+.pad {
+    padding: 20px;
+}
+
+#num {
+    list-style: -moz-ethiopic-numeric;
+}
+
+ul {
+    list-style: circle;
+}

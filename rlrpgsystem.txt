@@ -1,2 +1,40 @@
 The Real Life RPG System
 
+Basics
+
+In order to gamify your life, you can make a character sheet of yourself to 'numberify' your progress. To do that you need to know how RPG game character sheets work. In this section I aim to explain that.
+
+Stat points
+
+In order to implement this system, one must understand first the basic principles of RPG system design. In games all characters have attributes that describe their strength and weaknesses. These attributes are called stat points. I personally use a mix of two systems  (Fantasy Age and DnD table-top RPGs), so I am taking stats from there. Each of these contains skills that are explained further down.
+
+- Charisma*:
+ In DnD  system physical attractiveness is  part of charisma, since IRL 'beauty privilege' exists.*  In my system the things you can improve about your appearance are covered by charisma such as body composition and style.
+*taken from DnD
+*beauty privilege link
+
+- Communication:
+ In RPG-s this usually covers all sorts of social skills, such as bargaining, persuasiveness etc.
+
+- Perception:
+ Perception boils down to awareness both of your physical and social surroundings. In this sense empathy for me is part of perception, as it requires us to be aware of our social environment. Since mindfulness is also part of perception, since it's literally the state or the practice of awareness.
+
+ - Willpower:
+  Willpower is pretty self-explanatory too. It means how well you can control yourself. For example how diligent are you depend on your willpower.
+
+  - Intelligence:
+  Although generally speaking this seems as an inherited unchangeable value for us, in RPG systems skills that require mental work are connected to it. In this system although knowledge would be a better word to describe what I put under this category to keep the RPG format I didn't change it.
+
+  - Dexterity:
+  This is a physical stat. The word is also self-explanatory. Dexterity describes  a skill in performing tasks, especially with the hands (or your body). Thus, how well you type for e.g. is part of your dexterity, but also almost all technical skills. Further examples are below.
+
+  - Constitution:
+  It describes one's stamina, ability to endure. Endurance sports go under this stat, but I would also consider pain tolerance for e.g. part of this.
+
+  - Strength:
+  It describes one's physical strength, I also take endurance sport's speed under this.
+
+
+  Skills
+
+  These are assigned under the different stat points. All your skills can be assigned to a stat point ideally, but sometimes you have to get creative. I assign my real world skills to attributes, and I take my skill levels

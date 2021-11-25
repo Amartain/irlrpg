@@ -13,28 +13,95 @@ In order to implement this system, one must understand first the basic principle
 *taken from DnD
 *beauty privilege link
 
+Example skills:
+    - Style (as in clothes)
+    - Body composition (Muscle/Fat/BMI)
+
 - Communication:
- In RPG-s this usually covers all sorts of social skills, such as bargaining, persuasiveness etc.
+ In RPG-s this usually covers all sorts of social skills, such as bargaining, persuasiveness etc. It covers verbal and non-verbal communication skills as well.
+    - Kindness
+    - Acceptance
+
 
 - Perception:
  Perception boils down to awareness both of your physical and social surroundings. In this sense empathy for me is part of perception, as it requires us to be aware of our social environment. Since mindfulness is also part of perception, since it's literally the state or the practice of awareness.
+    - Mindfulness
+    - Empathy
 
  - Willpower:
   Willpower is pretty self-explanatory too. It means how well you can control yourself. For example how diligent are you depend on your willpower.
+    - Patience
+    - Diligence
 
   - Intelligence:
   Although generally speaking this seems as an inherited unchangeable value for us, in RPG systems skills that require mental work are connected to it. In this system although knowledge would be a better word to describe what I put under this category to keep the RPG format I didn't change it.
+    - Mathematics
+    - Python
+    - Webdev
+    - Javascript
+    - Linux
+    - German
 
   - Dexterity:
-  This is a physical stat. The word is also self-explanatory. Dexterity describes  a skill in performing tasks, especially with the hands (or your body). Thus, how well you type for e.g. is part of your dexterity, but also almost all technical skills. Further examples are below.
+  This is a physical stat. The word is also self-explanatory. Dexterity describes  a skill in performing tasks, especially with the hands (or your body). Thus, how well you type for e.g. is part of your dexterity, but also almost all technical skills.
+    - Piano
+    - Typing
+    - Swimming technique
+    - Archery (as it requires less strength more technique and aiming)
+    - Embroidery
 
   - Constitution:
   It describes one's stamina, ability to endure. Endurance sports go under this stat, but I would also consider pain tolerance for e.g. part of this.
+    - Swimming distance
+    - Running distance
+    - Cycling distance
+    (Any endurance sport)
 
   - Strength:
   It describes one's physical strength, I also take endurance sport's speed under this.
+  - Weightlifting
+  - Swimming speed
+  - Running speed
+  - Cycling speed
+  (for speed more muscle strength is required see sprinters body composition vs. endurance athlete's)
 
 
-  Skills
+  Stat point calculation
 
-  These are assigned under the different stat points. All your skills can be assigned to a stat point ideally, but sometimes you have to get creative. I assign my real world skills to attributes, and I take my skill levels
+  These are assigned under the different stat points. All your skills can be assigned to a stat point ideally, but sometimes you have to get creative. For example I put swimming distance under Constitution as it requires endurance, but swimming technique under dexterity, as it is a kinetic technique and these require dexterity. To get my attribute points or stat points I avarage the skill levels that are connected to the stat I want to calculate.
+
+  For example:
+  - If under Intelligence I have the following skills:
+  (TABLE)
+    - Python     lvl 6
+    - Webdev     lvl 3
+    - Chinese    lvl 21
+    - Mathematics lvl 12
+    (TABLE)
+    Then the average of these levels (10,5) rounded down (10) is my Intelligence point. Thus:
+    INT: 10
+
+    So if I progress in any of these skills I can up my INT points.
+
+  With this system I can see at a glance how much improvement  I make not only on individual skills but on  different areas of life such as the Social (COM, PER,) Physical aspect (CON, STR, DEX), Mental (WILL, PER).
+
+  Gaining skill levels
+
+  My system is based on self-assessment. Meaning you asses how much you have improved, and based on that you give yourself points on that skill (this way small improvements are visible as well in the forms of points versus general statements as I became a novice or sth like that - although milestones like that are part of the system as well).
+
+I have a conversion table, when the points reach the <FOCAL POINT????> then you level up.
+
+Level	Lvl up p
+1>5	    5
+5>10	10
+10>15	20
+15>20	40
+20>25	80
+25>30	160
+35>40	320
+40>45	640
+45>50	1280
+50>70	1280
+70>1000	2560
+
+Each time you reach 5 points in from lvl 1 - 5 you level up. So each level up in that range takes 5 points, however as you level up it takes more and more points to level up. I designed it that way, because IRL the more skilled you are the harder it is to see "actual level up" in your skill. Improvements always seem huge when you begin to practice any skill and dwindle down as you progress.

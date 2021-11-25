@@ -7,6 +7,7 @@ body {
 
 #logo {
     color:white;
+    border: none !important;
 }
 
 /*body {
@@ -78,10 +79,30 @@ pre:hover, #logo:hover {
 
 }
 
+.menu>table, .menu>th {
+    border: none;
+    width: 1024px;
+}
+
+.menu {
+    border:none !important;
+    font-size: large;
+}
+
+/* index.html specific */
 h1, h2, h3 {
     text-align:center;
 }
 
+#ascii{
+    width: 394px;
+    height: 486px;
+    display: block;
+    margin: auto;
+}
+
+
+/* charactersheet.html specific */
 #left{
     float:left;
     width:256px;
@@ -126,18 +147,6 @@ caption {
     padding-top:30px;
 }
 
-.content {
-    max-width:1024px;
-    margin-right:auto;
-    margin-left: auto;
-    border-top: 2px solid white;
-    border-right: 2px dashed white;
-    border-left: 2px dashed white;
-    border-bottom: 2px solid white;
-    border-bottom: 2px solid white;
-    margin-top: 20px;
-}
-
 
 table {
     padding-right: 5px;
@@ -169,6 +178,21 @@ td {
     padding: 4px;
 }
 
+/* all except index.html */
+.content {
+    max-width:1024px;
+    margin-right:auto;
+    margin-left: auto;
+    border-top: 2px solid white;
+    border-right: 2px dashed white;
+    border-left: 2px dashed white;
+    border-bottom: 2px solid white;
+    border-bottom: 2px solid white;
+    margin-top: 20px;
+}
+
+
+
 /* psychologybehind.html specific */
 
 ol {
@@ -195,3 +219,5 @@ p {
 ul {
     list-style: circle;
 }
+
+/* psychology behind spec. END */

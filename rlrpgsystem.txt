@@ -105,3 +105,5 @@ Level	Lvl up p
 70>1000	2560
 
 Each time you reach 5 points in from lvl 1 - 5 you level up. So each level up in that range takes 5 points, however as you level up it takes more and more points to level up. I designed it that way, because IRL the more skilled you are the harder it is to see "actual level up" in your skill. Improvements always seem huge when you begin to practice any skill and dwindle down as you progress.
+
+It is important to note again, that the system is based on self-assessment, meaning it is up to you to decide how many points you give yourself, how much you improved, since in my philosophy one's progress should be examined in the context of their own journey, own skills and on their past performance. I believe that one shouldn't really compare themselves with others (except for their expertise whatever that may be), but I digress if you want to read about it Google really is your friend. If you feel like this system could help you give it a go, and modify it if you feel like it.
